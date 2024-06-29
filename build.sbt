@@ -2,7 +2,7 @@ name := "MyJavaProject"
 
 version := "1.0"
 
-scalaVersion := "2.13.12" // This is required but won't affect your Java code
+scalaVersion := "2.13.14" // This is required but won't affect your Java code
 
 // Do not append Scala versions to the generated artifacts
 crossPaths := false
